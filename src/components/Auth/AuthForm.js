@@ -18,7 +18,7 @@ const AuthForm = () => {
     const enteredPassword = passwordInputRef.current.value;
 
     if (isLogin) {
-// ..
+// ..test
     } else {
       fetch(
           'https://identitytoolkit.googleapis.com/v1/accounts:signUp?key=AIzaSyAG7y-kKvDaGz5Maq_1y68N80DQYkG2DPI',
