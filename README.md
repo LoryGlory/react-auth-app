@@ -166,35 +166,26 @@ LinkedIn: [https://www.linkedin.com/in/laura-roganovic-1a694b207/](https://www.l
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/LoryGlory/react-auth-app
-.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/LoryGlory/react-auth-app.svg?style=for-the-badge
 
-[contributors-url]: https://github.com/LoryGlory/react-auth-app
-/graphs/contributors
+[contributors-url]: https://github.com/LoryGlory/react-auth-app/graphs/contributors
 
-[forks-shield]: https://img.shields.io/github/forks/LoryGlory/react-auth-app
-.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/LoryGlory/react-auth-app.svg?style=for-the-badge
 
-[forks-url]: https://github.com/LoryGlory/react-auth-app
-/network/members
+[forks-url]: https://github.com/LoryGlory/react-auth-app/network/members
 
-[stars-shield]: https://img.shields.io/github/stars/LoryGlory/react-auth-app
-.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/LoryGlory/react-auth-app.svg?style=for-the-badge
 
-[stars-url]: https://github.com/LoryGlory/react-auth-app
-/stargazers
+[stars-url]: https://github.com/LoryGlory/react-auth-app/stargazers
 
-[issues-shield]: https://img.shields.io/github/issues/LoryGlory/react-auth-app
-.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/LoryGlory/react-auth-app.svg?style=for-the-badge
 
 [issues-url]: https://github.com/LoryGlory/react-auth-app
 
 
-[license-shield]: https://img.shields.io/github/license/LoryGlory/react-auth-app
-.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/LoryGlory/react-auth-app.svg?style=for-the-badge
 
-[license-url]: https://github.com/LoryGlory/react-auth-app
-/blob/master/LICENSE.txt
+[license-url]: https://github.com/LoryGlory/react-auth-app/blob/master/LICENSE.txt
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 
