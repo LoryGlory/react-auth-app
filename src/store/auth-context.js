@@ -52,6 +52,7 @@ export const AuthContextProvider = (props) => {
 
   const [token, setToken] = useState(initialToken);
 
+  // cast userIsLoggedIn as boolean
   const userIsLoggedIn = !!token;
 
   const logoutHandler = useCallback(() => {
