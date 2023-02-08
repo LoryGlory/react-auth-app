@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be48a084-863f-4c67-8983-36b59858cd43" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/ProfileForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/ProfileForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/auth-context.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/auth-context.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +25,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/laura/WebstormProjects/react-auth-app/public",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -32,6 +35,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -41,6 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1671730464103</updated>
       <workItem from="1671730465135" duration="117000" />
+      <workItem from="1675855202099" duration="1429000" />
     </task>
     <servers />
   </component>

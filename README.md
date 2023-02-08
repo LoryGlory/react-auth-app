@@ -135,8 +135,9 @@ This is an example project using React.js solely for training purposes.
 ### Future Additions
 
 
-- [ ] Secure/hide the database connection in code
+- [ ] Secure/hide the database connection in code.
 - [ ] Add validation to user input fields for signup. 
+- [ ] Add error handling for sign up (now we assume it's always a success).
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 

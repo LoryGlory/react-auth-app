@@ -1,7 +1,9 @@
+// Context component for global state handling
 import React, {useState, useEffect, useCallback} from 'react';
 
 let logoutTimer;
 
+// create context for user authentication
 const AuthContext = React.createContext({
   token: '',
   isLoggedIn: false,
@@ -11,6 +13,7 @@ const AuthContext = React.createContext({
   },
 });
 
+// function for measuring logged in time
 const calculateRemainingTime = (expirationTime) => {
   const currentTime = new Date().getTime();
   const adjustedExpirationTime = new Date(expirationTime).getTime();
@@ -20,6 +23,7 @@ const calculateRemainingTime = (expirationTime) => {
   return remainingDuration;
 }
 
+// get stored authentication token from local storage, log out user if authentication token is about to be expired in less than 1 minute
 const retrieveStoredToken = () => {
   const storedToken = localStorage.getItem('token');
   const storedExpirationDate = localStorage.getItem('expirationTime');
