@@ -6,12 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="be48a084-863f-4c67-8983-36b59858cd43" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Auth/AuthForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Auth/AuthForm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Layout/MainNavigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Layout/MainNavigation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Profile/ProfileForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/ProfileForm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/auth-context.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/auth-context.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,13 +22,26 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be48a084-863f-4c67-8983-36b59858cd43" name="Changes" comment="" />
+      <created>1671730464103</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671730464103</updated>
+      <workItem from="1671730465135" duration="117000" />
+    </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
